@@ -1,0 +1,205 @@
+SPIKINGS - ASSET DOCUMENTATION
+================================
+
+This file lists all image assets required for the Spikings app.
+All images should be added to Assets.xcassets in Xcode.
+Icons are handled via SF Symbols and do not need custom assets.
+
+ARTICLE COVER IMAGES (20 total)
+---------------------------------
+
+cover_1
+Ancient pyramid at sunset with golden light, dramatic sky
+------------------
+
+cover_2
+Golden pharaoh death mask, intricate details, museum lighting
+------------------
+
+cover_3
+Hieroglyphic wall carvings, ancient temple interior
+------------------
+
+cover_4
+Cleopatra portrait, regal pose, Egyptian royal attire
+------------------
+
+cover_5
+Mummification scene, ancient Egyptian ritual preparation
+------------------
+
+cover_6
+Valley of the Kings landscape, rocky desert cliffs
+------------------
+
+cover_7
+Ancient Egyptian gods statues, temple setting
+------------------
+
+cover_8
+Great Sphinx of Giza, limestone monument, desert background
+------------------
+
+cover_9
+Ramesses II colossal statue, Abu Simbel temple
+------------------
+
+cover_10
+Nile River flowing through green valley, aerial view
+------------------
+
+cover_11
+Ancient medical papyrus, hieroglyphic text, healing symbols
+------------------
+
+cover_12
+Book of the Dead scroll, colorful illustrations
+------------------
+
+cover_13
+Akhenaten relief carving, distinctive artistic style
+------------------
+
+cover_14
+Ancient Egyptian soldiers, battle scene relief
+------------------
+
+cover_15
+Rosetta Stone close-up, three scripts visible
+------------------
+
+cover_16
+Ancient Egyptian daily life scene, market or village
+------------------
+
+cover_17
+Red Pyramid at Dahshur, desert landscape
+------------------
+
+cover_18
+Hatshepsut temple at Deir el-Bahari, terraced architecture
+------------------
+
+cover_19
+Ancient Egyptian art, colorful wall paintings
+------------------
+
+cover_20
+Ancient Alexandria library artistic reconstruction
+------------------
+
+TASK COVER IMAGES (20 total)
+------------------------------
+
+task_cover_1
+Pyramid construction diagram, workers and ramps
+------------------
+
+task_cover_2
+Hieroglyphic alphabet chart, educational illustration
+------------------
+
+task_cover_3
+Mummification tools and canopic jars
+------------------
+
+task_cover_4
+Ancient Egyptian boat on the Nile
+------------------
+
+task_cover_5
+Temple construction blueprint, architectural drawing
+------------------
+
+task_cover_6
+Archaeological excavation site, tools and artifacts
+------------------
+
+task_cover_7
+Royal cartouche examples, oval frames with hieroglyphs
+------------------
+
+task_cover_8
+Ancient medical instruments and herbs
+------------------
+
+task_cover_9
+Royal funeral procession, ancient Egyptian ceremony
+------------------
+
+task_cover_10
+Sphinx construction process illustration
+------------------
+
+task_cover_11
+Ancient trade goods, pottery and textiles
+------------------
+
+task_cover_12
+Temple ritual scene, priests and offerings
+------------------
+
+task_cover_13
+Mastaba tomb structure, architectural diagram
+------------------
+
+task_cover_14
+Book of the Dead papyrus, detailed illustrations
+------------------
+
+task_cover_15
+Ancient Egyptian jewelry, gold and precious stones
+------------------
+
+task_cover_16
+Land surveying tools, ancient measurement devices
+------------------
+
+task_cover_17
+Afterlife preparation items, amulets and scrolls
+------------------
+
+task_cover_18
+Stone carving tools and unfinished statue
+------------------
+
+task_cover_19
+Festival celebration scene, music and dance
+------------------
+
+task_cover_20
+Western Desert landscape, sand dunes and oasis
+------------------
+
+BACKGROUND IMAGES (Optional)
+------------------------------
+
+desert_sands_bg
+Warm desert sand dunes, golden hour lighting
+------------------
+
+golden_pharaoh_bg
+Rich gold and bronze gradient, royal atmosphere
+------------------
+
+night_nile_bg
+Deep blue night sky over the Nile, stars visible
+------------------
+
+NOTES FOR DEVELOPERS
+---------------------
+
+1. All images should be provided in @1x, @2x, and @3x resolutions
+2. Recommended format: PNG or JPEG
+3. Color profile: sRGB
+4. Images should maintain aspect ratio of approximately 16:9 for covers
+5. Background images should be at least 1170x2532 pixels for iPhone compatibility
+6. Consider using placeholder gradients during development
+7. Final assets should be optimized for app size
+
+PLACEHOLDER STRATEGY
+--------------------
+
+During development, the app uses SF Symbols and gradient backgrounds as placeholders.
+The UI is designed to work with or without actual image assets.
+Replace placeholders with actual images before production release.

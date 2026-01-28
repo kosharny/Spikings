@@ -1,0 +1,922 @@
+[
+  {
+    "id": "task_001",
+    "title": "Build the Great Pyramid",
+    "subtitle": "Master ancient engineering techniques",
+    "coverImage": "construction_workers_pyramid",
+    "difficulty": "medium",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_001_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_001_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_001_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_001_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_001_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_001_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of build the great pyramid, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_002",
+    "title": "Decode Hieroglyphics",
+    "subtitle": "Learn to read ancient Egyptian writing",
+    "coverImage": "hieroglyphs_wall_texture",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_002_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_002_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_002_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_002_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_002_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_002_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of decode hieroglyphics, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_003",
+    "title": "Mummify a Pharaoh",
+    "subtitle": "Preserve a body for eternity",
+    "coverImage": "mummy_sarcophagus_detail",
+    "difficulty": "hard",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_003_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_003_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_003_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_003_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_003_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_003_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of mummify a pharaoh, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_004",
+    "title": "Navigate the Nile",
+    "subtitle": "Journey through ancient Egypt's waterways",
+    "coverImage": "nile_river_dawn",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_004_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_004_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_004_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_004_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_004_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_004_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of navigate the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_005",
+    "title": "Construct a Temple",
+    "subtitle": "Build a monument to the gods",
+    "coverImage": "temple_columns_luxor",
+    "difficulty": "medium",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_005_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_005_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_005_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_005_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_005_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_005_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of construct a temple, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_006",
+    "title": "Excavate a Tomb",
+    "subtitle": "Uncover hidden treasures",
+    "coverImage": "tutankhamun_tomb_entrance",
+    "difficulty": "medium",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_006_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_006_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_006_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_006_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_006_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_006_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of excavate a tomb, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_007",
+    "title": "Create a Cartouche",
+    "subtitle": "Design your own royal name seal",
+    "coverImage": "scarab_jewel_art",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_007_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_007_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_007_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_007_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_007_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_007_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of create a cartouche, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_008",
+    "title": "Master Ancient Medicine",
+    "subtitle": "Learn healing techniques of the ancients",
+    "coverImage": "papyrus_scroll_vintage",
+    "difficulty": "hard",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_008_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_008_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_008_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_008_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_008_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_008_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of master ancient medicine, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_009",
+    "title": "Plan a Royal Funeral",
+    "subtitle": "Organize a pharaoh's journey to the afterlife",
+    "coverImage": "anubis_statue_dark",
+    "difficulty": "hard",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_009_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_009_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_009_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_009_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_009_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_009_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of plan a royal funeral, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_010",
+    "title": "Design a Sphinx",
+    "subtitle": "Create your own guardian monument",
+    "coverImage": "sphinx_profile_view",
+    "difficulty": "medium",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_010_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_010_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_010_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_010_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_010_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_010_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of design a sphinx, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_011",
+    "title": "Trade on the Nile",
+    "subtitle": "Become a successful ancient merchant",
+    "coverImage": "camel_caravan_desert",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_011_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_011_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_011_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_011_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_011_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_011_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of trade on the nile, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_012",
+    "title": "Worship the Gods",
+    "subtitle": "Perform ancient Egyptian rituals",
+    "coverImage": "eye_of_horus_gold",
+    "difficulty": "medium",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_012_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_012_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_012_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_012_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_012_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_012_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of worship the gods, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_013",
+    "title": "Build a Mastaba",
+    "subtitle": "Construct an early tomb structure",
+    "coverImage": "pyramid_blueprint_sketch",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_013_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_013_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_013_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_013_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_013_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_013_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of build a mastaba, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_014",
+    "title": "Decipher the Book of the Dead",
+    "subtitle": "Understand the afterlife guide",
+    "coverImage": "rosetta_stone_close",
+    "difficulty": "hard",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_014_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_014_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_014_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_014_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_014_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_014_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of decipher the book of the dead, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_015",
+    "title": "Create Ancient Jewelry",
+    "subtitle": "Craft royal adornments",
+    "coverImage": "scarab_jewel_art",
+    "difficulty": "medium",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_015_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_015_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_015_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_015_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_015_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_015_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of create ancient jewelry, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_016",
+    "title": "Survey Land for Farming",
+    "subtitle": "Use ancient measurement techniques",
+    "coverImage": "ancient_map_egypt",
+    "difficulty": "easy",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_016_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_016_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_016_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_016_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_016_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_016_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of survey land for farming, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_017",
+    "title": "Prepare for the Afterlife",
+    "subtitle": "Complete your journey preparations",
+    "coverImage": "golden_pharaoh_mask",
+    "difficulty": "medium",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_017_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_017_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_017_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_017_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_017_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_017_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of prepare for the afterlife, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_018",
+    "title": "Carve a Statue",
+    "subtitle": "Create monumental sculpture",
+    "coverImage": "anubis_statue_dark",
+    "difficulty": "hard",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_018_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_018_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_018_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_018_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_018_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_018_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of carve a statue, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_019",
+    "title": "Organize a Festival",
+    "subtitle": "Celebrate the gods in ancient style",
+    "coverImage": "pharaoh_throne_room",
+    "difficulty": "medium",
+    "isPremium": false,
+    "steps": [
+      {
+        "id": "step_019_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_019_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_019_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_019_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_019_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_019_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of organize a festival, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  },
+  {
+    "id": "task_020",
+    "title": "Explore the Western Desert",
+    "subtitle": "Journey into the unknown",
+    "coverImage": "desert_night_stars",
+    "difficulty": "hard",
+    "isPremium": true,
+    "steps": [
+      {
+        "id": "step_020_1",
+        "step": 1,
+        "title": "Understanding the Basics",
+        "description": "Learn the fundamental concepts and historical context necessary for this quest. Ancient Egyptians possessed knowledge that was passed down through generations of skilled craftsmen and priests. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_020_2",
+        "step": 2,
+        "title": "Gathering Resources",
+        "description": "Collect the materials, tools, and knowledge required to proceed. The ancient Egyptians were masters of resource management and logistics. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_020_3",
+        "step": 3,
+        "title": "Preparing the Foundation",
+        "description": "Establish the groundwork for your project with careful planning and measurement. Precision was paramount in ancient Egyptian construction and craftsmanship. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_020_4",
+        "step": 4,
+        "title": "Executing the Main Work",
+        "description": "Carry out the primary tasks using authentic ancient techniques. This step requires patience, skill, and attention to detail. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_020_5",
+        "step": 5,
+        "title": "Adding Finishing Touches",
+        "description": "Complete the finer details that distinguish masterwork from ordinary work. The Egyptians believed that perfection honored the gods. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      },
+      {
+        "id": "step_020_6",
+        "step": 6,
+        "title": "Final Completion",
+        "description": "Review your work and perform any final rituals or ceremonies. Ancient Egyptians marked completion with religious observances and celebrations. In the context of explore the western desert, this involves understanding the specific techniques and knowledge that ancient Egyptians would have employed. Archaeological evidence and ancient texts provide guidance on the methods used."
+      }
+    ]
+  }
+]
