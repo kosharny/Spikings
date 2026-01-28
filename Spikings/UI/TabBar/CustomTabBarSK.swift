@@ -43,7 +43,7 @@ struct CustomTabBarSK: View {
         .padding(.vertical, 8)
         .background(
             Capsule()
-                .fill(.ultraThinMaterial.opacity(0.8))
+                .fill(.ultraThinMaterial)
                 .overlay(
                     Capsule()
                         .stroke(Color.egyptOrange.opacity(0.3), lineWidth: 1)

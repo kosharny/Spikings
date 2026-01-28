@@ -1,3 +1,10 @@
+//
+//  CustomAlertSK.swift
+//  Spikings
+//
+//  Created by Maksim Kosharny on 28.01.2026.
+//
+
 import SwiftUI
 
 struct CustomAlertSK: View {
@@ -14,7 +21,7 @@ struct CustomAlertSK: View {
             Color.black.opacity(0.6)
                 .edgesIgnoringSafeArea(.all)
                 .onTapGesture {
-                    // Optional: tap outside to dismiss if desired, usually alerts are modal
+                    
                 }
             
             VStack(spacing: 20) {
