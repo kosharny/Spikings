@@ -17,7 +17,7 @@ extension ThemeModelSK {
         name: "Desert Sands",
         isPremium: false,
         price: "Free",
-        primaryGradient: [Color(hex: "C2956A"), Color(hex: "4D382B")],
+        primaryGradient: [Color(hex: "FFC692"), Color(hex: "D16B3D"), Color(hex: "63220D")],
         accentColor: Color(hex: "D4AF37"),
         textColor: Color(hex: "2C2416"),
         cardBackground: Color(hex: "F5E6D3")

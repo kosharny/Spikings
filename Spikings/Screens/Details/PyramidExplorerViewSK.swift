@@ -30,7 +30,7 @@ struct PyramidExplorerViewSK: View {
                 
                 TabView(selection: $selectedPyramid) {
                     ForEach(Array(pyramids.enumerated()), id: \.offset) { index, pyramid in
-                        ScrollView {
+                        ScrollView(showsIndicators: false) {
                             VStack(alignment: .leading, spacing: 24) {
                                 ZStack {
                                     Rectangle()
@@ -44,10 +44,13 @@ struct PyramidExplorerViewSK: View {
                                         .frame(height: 220)
                                         .cornerRadius(20)
                                     
-                                    Image(systemName: "triangle.fill")
-                                        .font(.system(size: 80))
-                                        .foregroundColor(viewModel.selectedTheme.accentColor.opacity(0.3))
-                                        .rotationEffect(.degrees(0))
+                                    Image("desert_pyramids_sunset")
+                                        .resizable()
+                                        .scaledToFill()
+                                        .frame(height: 220)
+                                        .clipShape(
+                                            RoundedRectangle(cornerRadius: 20)
+                                        )
                                 }
                                 .padding(.horizontal, 20)
                                 

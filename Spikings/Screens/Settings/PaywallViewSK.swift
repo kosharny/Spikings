@@ -41,7 +41,7 @@ struct PaywallViewSK: View {
                                 .foregroundColor(.white)
                             
                             Text("Unlock Premium Themes")
-                                .font(.system(size: 32, weight: .bold))
+                                .font(.system(size: 30, weight: .bold))
                                 .foregroundColor(.white)
                                 .multilineTextAlignment(.center)
                             
