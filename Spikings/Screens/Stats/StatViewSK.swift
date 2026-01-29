@@ -25,14 +25,14 @@ struct StatViewSK: View {
                     VStack(spacing: 16) {
                         ZStack {
                             Circle()
-                                .stroke(viewModel.selectedTheme.accentColor.opacity(0.2), lineWidth: 20)
+                                .stroke(viewModel.selectedTheme.textColor.opacity(0.2), lineWidth: 20)
                                 .frame(width: 180, height: 180)
                             
                             Circle()
                                 .trim(from: 0, to: completionPercentage / 100)
                                 .stroke(
                                     LinearGradient(
-                                        gradient: Gradient(colors: [viewModel.selectedTheme.accentColor, viewModel.selectedTheme.accentColor.opacity(0.7)]),
+                                        gradient: Gradient(colors: [viewModel.selectedTheme.textColor, viewModel.selectedTheme.textColor.opacity(0.7)]),
                                         startPoint: .topLeading,
                                         endPoint: .bottomTrailing
                                     ),

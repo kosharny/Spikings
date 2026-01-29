@@ -56,7 +56,7 @@ struct HomeViewSK: View {
                             NavigationLink(destination: ArticlesViewSK().environmentObject(viewModel)) {
                                 Text("See All")
                                     .font(.system(size: 14, weight: .semibold))
-                                    .foregroundColor(viewModel.selectedTheme.accentColor)
+                                    .foregroundColor(viewModel.selectedTheme.textColor)
                             }
                         }
                         .padding(.horizontal, 20)
@@ -90,7 +90,7 @@ struct HomeViewSK: View {
                             NavigationLink(destination: TasksViewSK().environmentObject(viewModel)) {
                                 Text("See All")
                                     .font(.system(size: 14, weight: .semibold))
-                                    .foregroundColor(viewModel.selectedTheme.accentColor)
+                                    .foregroundColor(viewModel.selectedTheme.textColor)
                             }
                         }
                         .padding(.horizontal, 20)
